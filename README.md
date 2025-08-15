@@ -10,37 +10,43 @@ RailCog is the first multimodal benchmark and open-source framework dedicated to
 
 ### Figure 1: CogRail Dataset Construction Pipeline
 [📄 Click here to download PDF](assets/dataset-pipeline.pdf)  
-<p align="center">
+<div style="text-align: center; margin: 20px 0;">
+  <!-- PDF 内嵌（浏览器支持时渲染） -->
   <object data="assets/dataset-pipeline.pdf" type="application/pdf" width="85%">
     <p>Your browser does not support embedded PDFs.  
-    <a href="assets/dataset-pipeline.pdf">Click to download Figure 1</a>
+    <!-- 图片预览（fallback） -->
+    <img src="assets/dataset-pipeline.png" alt="CogRail Dataset Construction Pipeline" style="max-width: 100%; height: auto;">  
+    <!-- PDF 下载链接 -->
+    <a href="assets/dataset-pipeline.pdf" download>Click to download Figure 1</a>
     </p>
   </object>
-</p>
+</div>
 
 ---
 
 ### Figure 2: Threat Level Distribution & Object Composition
 [📄 Click here to download PDF](assets/statistics.pdf)  
-<p align="center">
+<div style="text-align: center; margin: 20px 0;">
   <object data="assets/statistics.pdf" type="application/pdf" width="85%">
     <p>Your browser does not support embedded PDFs.  
-    <a href="assets/statistics.pdf">Click to download Figure 2</a>
+    <img src="assets/statistics.png" alt="Threat Level Distribution & Object Composition" style="max-width: 100%; height: auto;">  
+    <a href="assets/statistics.pdf" download>Click to download Figure 2</a>
     </p>
   </object>
-</p>
+</div>
 
 ---
 
 ### Figure 3: RAILGPT Multi-Task Learning Architecture
 [📄 Click here to download PDF](assets/framework.pdf)  
-<p align="center">
+<div style="text-align: center; margin: 20px 0;">
   <object data="assets/framework.pdf" type="application/pdf" width="85%">
     <p>Your browser does not support embedded PDFs.  
-    <a href="assets/framework.pdf">Click to download Figure 3</a>
+    <img src="assets/framework.png" alt="RAILGPT Multi-Task Learning Architecture" style="max-width: 100%; height: auto;">  
+    <a href="assets/framework.pdf" download>Click to download Figure 3</a>
     </p>
   </object>
-</p>
+</div>
 
 ---
 
