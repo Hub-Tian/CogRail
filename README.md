@@ -45,43 +45,36 @@ CogRail systematically evaluates vision-language models in railway intrusion per
 
 ## 🗂️ Dataset Structure
 
+Dataset Structure
+=================
+
 CogRail/
 ├── Cog-MRSI/
-│ ├── train/
-│ │ ├── 01/
-│ │ │ ├── image/
-│ │ │ └── label/
-│ │ ├── 02/
-│ │ │ ├── image/
-│ │ │ └── label/
-│ │ └── ...
-│ ├── test/
-│ │ ├── 01/
-│ │ │ ├── image/
-│ │ │ └── label/
-│ │ ├── 02/
-│ │ │ ├── image/
-│ │ │ └── label/
-│ │ └── ...
-├── Cog-RailSem19/
-│ ├── train/
-│ │ ├── image/
-│ │ └── label/
-│ ├── test/
-│ │ ├── image/
-│ │ └── label/
-├── assets/
-│ ├── dataset-pipeline.png
-│ ├── statistics.png
-│ └── framework.png
-├── citations/
-│ └── CITATION.cff
-├── licenses/
-│ ├── LICENSE-CODE.go
-│ └── LICENSE-DATA.md
-└── README.md
-
----
+│   ├── train/
+│   │   ├── 01/
+│   │   │   ├── image/
+│   │   │   └── label/
+│   │   ├── 02/
+│   │   │   ├── image/
+│   │   │   └── label/
+│   │   └── ...
+│   └── test/
+│       ├── 01/
+│       │   ├── image/
+│       │   └── label/
+│       ├── 02/
+│       │   ├── image/
+│       │   └── label/
+│       └── ...
+└── Cog-RailSem19/
+    ├── train/
+    │   ├── image/
+    │   └── label/
+    └── test/
+        ├── image/
+        └── label/
+        └── ...
+ 
 
 ## 🛠️ Technical Implementation
 
