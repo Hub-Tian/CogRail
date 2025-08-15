@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+title: "RailCog: Benchmarking VLMs for Cognitive Railway Intrusion Perception"
+authors:
+  - family-names: Tian
+    given-names: Yonglin
+  - family-names: Zhang
+    given-names: Qiyao
+  - family-names: Wang
+    given-names: Yutong
+  - family-names: Wu
+    given-names: Yihao
+  - family-names: Li
+    given-names: Xinyi
+  - family-names: Guo
+    given-names: Baoqing
+  - family-names: Lv
+    given-names: Yisheng
+  - family-names: Wang
+    given-names: Fei-Yue
+date-released: "2025-01-01"
+version: "1.0.0"
+message: "If you use this repository, please cite the following preprint."
+preferred-citation:
+  type: article
+  title: "CogRail: Benchmarking VLMs for Cognitive Railway Intrusion Perception"
+  authors:
+    - family-names: Tian
+      given-names: Yonglin
+    - family-names: Zhang
+      given-names: Qiyao
+    - family-names: Wang
+      given-names: Yutong
+    - family-names: Wu
+      given-names: Yihao
+    - family-names: Li
+      given-names: Xinyi
+    - family-names: Guo
+      given-names: Baoqing
+    - family-names: Lv
+      given-names: Yisheng
+    - family-names: Wang
+      given-names: Fei-Yue
+  year: 2025
+  journal: "Preprint submitted to Elsevier"
+  notes: "Please update DOI/URL once available."
