@@ -44,6 +44,7 @@ The CogRail dataset contains two main folders: Cog-MRSI/ and Cog-RailSem19/.
 Each folder has a training set (train) and a test set (test).
 The directory structure is as follows (indentation indicates hierarchy):
 
+```text
 Cog-Rail/
 |-- Cog-MRSI/
 |   |-- train/
@@ -72,7 +73,7 @@ Cog-Rail/
     `-- test/
         |-- image/
         `-- label/
-
+```
 
 
 
