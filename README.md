@@ -40,41 +40,61 @@ CogRail systematically evaluates vision-language models in railway intrusion per
 - **Sources**: 
 - **Labels**:   
 - **Unified Label Space** 
-
----
-
-## 🗂️ Dataset Structure
-
-Dataset Structure
-=================
+The CogRail dataset contains two main folders: Cog-MRSI/ and Cog-RailSem19/.
+Each folder has a training set (train) and a test set (test).
+The directory structure is as follows (indentation indicates hierarchy):
 
 CogRail/
-├── Cog-MRSI/
-│   ├── train/
-│   │   ├── 01/
-│   │   │   ├── image/
-│   │   │   └── label/
-│   │   ├── 02/
-│   │   │   ├── image/
-│   │   │   └── label/
-│   │   └── ...
-│   └── test/
-│       ├── 01/
-│       │   ├── image/
-│       │   └── label/
-│       ├── 02/
-│       │   ├── image/
-│       │   └── label/
-│       └── ...
-└── Cog-RailSem19/
-    ├── train/
-    │   ├── image/
-    │   └── label/
-    └── test/
-        ├── image/
-        └── label/
-        └── ...
- 
+
+Cog-MRSI/
+
+train/
+
+01/
+
+image/
+
+label/
+
+02/
+
+image/
+
+label/
+
+...
+
+test/
+
+01/
+
+image/
+
+label/
+
+02/
+
+image/
+
+label/
+
+...
+
+Cog-RailSem19/
+
+train/
+
+image/
+
+label/
+
+test/
+
+image/
+
+label/
+
+
 
 ## 🛠️ Technical Implementation
 
