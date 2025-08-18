@@ -26,7 +26,7 @@ CogRail is the first multimodal benchmark and open-source framework dedicated to
 ![Framework](assets/fig3_framework.png)
 
 ### Figure 4: Performance Comparison among SOTA VLMs on CogRail averaged on different Prompt types and sub-datasets
-![Performance](assets/ fig4_multimodal_llms_rail_avg_radar.png)
+![Performance](assets/fig4_multimodal_avg_radar.png)
 
 ### Figure 5: Performance(F1) Comparison on Type-I Visual Prompt in Cog-MRSI dataset via Individual Fine-tuning
 ![Type-I MRSI](assets/fig5_f1_type1_mrsi.png)
