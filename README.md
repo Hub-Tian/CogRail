@@ -17,13 +17,28 @@ CogRail is the first multimodal benchmark and open-source framework dedicated to
 ## 📊 Figures
 
 ### Figure 1: CogRail Dataset Construction Pipeline
-![Dataset Pipeline](assets/dataset-pipeline.png)
+![Dataset Pipeline](assets/fig1_dataset-pipeline.png)
 
 ### Figure 2: Threat Level Distribution & Object Composition
-![Statistics](assets/statistics.png)
+![Statistics](assets/fig2_statistics.png)
 
 ### Figure 3: RAILGPT Multi-Task Learning Architecture
-![Framework](assets/framework.png)
+![Framework](assets/fig3_framework.png)
+
+### Figure 4: Performance Comparison among SOTA VLMs on CogRail averaged on different Prompt types and sub-datasets
+![Performance](assets/ fig4_multimodal_llms_rail_avg_radar.png)
+
+### Figure 5: Performance(F1) Comparison on Type-I Visual Prompt in Cog-MRSI dataset via Individual Fine-tuning
+![Type-I MRSI](assets/fig5_f1_type1_mrsi.png)
+
+### Figure 6: Performance(F1) Comparison on Type-II Visual Prompt in Cog-MRSI dataset via Individual Fine-tuning
+![Type-II MRSI](assets/fig6_f1_type2_mrsi.png)
+
+### Figure 7: Performance(F1) Comparison on Type-I Visual Prompt in Cog-RailSem19 dataset via Individual Fine-tuning
+![Type-I RailSem19](assets/fig7_f1_type1_railsem19.png)
+
+### Figure 8: Performance (F1) Comparison on Type-II Visual Prompt in Cog-RailSem19 dataset via Individual Fine-tuning
+![Type-II RailSem19](assets/fig8_f1_type2_railsim19.png)
 
 ---
 
