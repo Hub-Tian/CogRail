@@ -14,49 +14,19 @@ CogRail is the first multimodal benchmark and open-source framework dedicated to
 
 ---
 
-## 📊 Figures
-
+## 🗂️ Dataset Details
+Dataset Sources & Labels
+- **Sources**: 
+- **Labels**:   
+- **Unified Label Space** 
+The CogRail dataset contains two main folders: Cog-MRSI/ and Cog-RailSem19/.
+Each folder has a training set (train) and a test set (test).
 ### Figure 1: CogRail Dataset Construction Pipeline
 ![Dataset Pipeline](assets/fig1_dataset-pipeline.png)
 
 ### Figure 2: Threat Level Distribution & Object Composition
 ![Statistics](assets/fig2_statistics.png)
 
-### Figure 3: RAILGPT Multi-Task Learning Architecture
-![Framework](assets/fig3_framework.png)
-
-### Figure 4: Performance Comparison among SOTA VLMs on CogRail averaged on different Prompt types and sub-datasets
-![Performance](assets/fig4_multimodal_avg_radar.png)
-
-### Figure 5: Performance(F1) Comparison on Type-I Visual Prompt in Cog-MRSI dataset via Individual Fine-tuning
-![Type-I MRSI](assets/fig5_f1_type1_mrsi.png)
-
-### Figure 6: Performance(F1) Comparison on Type-II Visual Prompt in Cog-MRSI dataset via Individual Fine-tuning
-![Type-II MRSI](assets/fig6_f1_type2_mrsi.png)
-
-### Figure 7: Performance(F1) Comparison on Type-I Visual Prompt in Cog-RailSem19 dataset via Individual Fine-tuning
-![Type-I RailSem19](assets/fig7_f1_type1_railsem19.png)
-
-### Figure 8: Performance (F1) Comparison on Type-II Visual Prompt in Cog-RailSem19 dataset via Individual Fine-tuning
-![Type-II RailSem19](assets/fig8_f1_type2_railsim19.png)
-
----
-
-## ✨ Benchmark & Dataset Details
-
-CogRail systematically evaluates vision-language models in railway intrusion perception scenarios. It defines three core tasks and provides unified annotations and synthetic data diversity.
-
-### Three Core Tasks
-- **CogRailPos (Spatial Awareness)**: Determine OOI location relative to railway infrastructure.  
-- **CogRailMove (Motion Prediction)**: Predict threat level of movement.  
-- **CogRailThreat (Threat Assessment)**: Integrate spatial + motion info to assess threat.  
-
-### Dataset Sources & Labels
-- **Sources**: 
-- **Labels**:   
-- **Unified Label Space** 
-The CogRail dataset contains two main folders: Cog-MRSI/ and Cog-RailSem19/.
-Each folder has a training set (train) and a test set (test).
 The directory structure is as follows (indentation indicates hierarchy):
 
 ```text
@@ -90,7 +60,42 @@ Cog-Rail/
         `-- label/
 ```
 
+---
 
+## RAILGPT Multi-Task Learning Architecture
+![Framework](assets/fig3_framework.png)
+
+---
+
+## ✨ Benchmark
+
+CogRail systematically evaluates vision-language models in railway intrusion perception scenarios. It defines three core tasks and provides unified annotations and synthetic data diversity.
+
+### Three Core Tasks
+- **CogRailPos (Spatial Awareness)**: Determine OOI location relative to railway infrastructure.  
+- **CogRailMove (Motion Prediction)**: Predict threat level of movement.  
+- **CogRailThreat (Threat Assessment)**: Integrate spatial + motion info to assess threat.  
+
+---
+
+## 📈 Experimental Results
+
+### Figure 4: Performance Comparison among SOTA VLMs on CogRail averaged on different Prompt types and sub-datasets
+![Performance](assets/fig4_multimodal_avg_radar.png)
+
+### Figure 5: Performance(F1) Comparison on Type-I Visual Prompt in Cog-MRSI dataset via Individual Fine-tuning
+![Type-I MRSI](assets/fig5_f1_type1_mrsi.png)
+
+### Figure 6: Performance(F1) Comparison on Type-II Visual Prompt in Cog-MRSI dataset via Individual Fine-tuning
+![Type-II MRSI](assets/fig6_f1_type2_mrsi.png)
+
+### Figure 7: Performance(F1) Comparison on Type-I Visual Prompt in Cog-RailSem19 dataset via Individual Fine-tuning
+![Type-I RailSem19](assets/fig7_f1_type1_railsem19.png)
+
+### Figure 8: Performance (F1) Comparison on Type-II Visual Prompt in Cog-RailSem19 dataset via Individual Fine-tuning
+![Type-II RailSem19](assets/fig8_f1_type2_railsim19.png)
+
+---
 
 ## 🛠️ Technical Implementation
 
