@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-CogRail is the first multimodal benchmark and open-source framework dedicated to cognitive railway intrusion perception, built on real-world surveillance scenes with cognition-driven, multi-dimensional instruction-level annotations (the CogRail dataset). It supports spatio-temporal reasoning, motion prediction, and threat assessment for objects of interest (OOIs) in railway environments. The project integrates visual question-answer annotations with expert-defined threat semantics and leverages instance synthesis to enhance data diversity while maintaining consistent label space across subsets. CogRail systematically evaluates state-of-the-art vision-language models (such as Qwen-VL and LLaVA) in railway scenarios, revealing their strengths and limitations in complex spatio-temporal reasoning. It also introduces the RAILGPT multi-task fine-tuning framework, which combines visual prompts, textual instructions, and specialized agents to optimize cognitive capabilities across position awareness (CogRailPos), motion prediction (CogRailMove), and threat analysis (CogRailThreat) tasks. After joint fine-tuning, RAILGPT achieves an 18.6% F1 improvement on the threat analysis task, demonstrating the effectiveness of structured multi-task learning in safety-critical scenarios and providing a complete benchmark toolchain for both research and engineering applications.
+CogRail is the first multimodal benchmark and open-source framework dedicated to cognitive railway intrusion perception, built on real-world surveillance scenes with cognition-driven, multi-dimensional instruction-level annotations (the CogRail dataset). It supports spatio-temporal reasoning, motion prediction, and threat assessment for objects of interest (OOIs) in railway environments. The project integrates visual question-answer annotations with expert-defined threat semantics and leverages instance synthesis to enhance data diversity while maintaining consistent label space across subsets. CogRail systematically evaluates state-of-the-art vision-language models (such as Qwen-VL and LLaVA) in railway scenarios, revealing their strengths and limitations in complex spatio-temporal reasoning. It also introduces the RAILGPT multi-task fine-tuning framework, which combines visual prompts, textual instructions, and specialized agents to optimize cognitive capabilities across position awareness (CogRailPos), motion prediction (CogRailMove), and threat analysis (CogRailThreat) tasks. After joint fine-tuning, RAILGPT achieves an 18.6% F1 improvement on the threat analysis task, demonstrating the effectiveness of structured multi-task learning in safety-critical scenarios and providing a complete benchmark toolchain for both research and engineering applications. You can view our paper at https://arxiv.org/abs/2601.09613
 
 ---
 
@@ -34,40 +34,7 @@ Each folder has a training set (train) and a test set (test).
 ### Threat Level Distribution & Object Composition
 ![Statistics](assets/fig2_statistics.png)
 
-The directory structure is as follows (indentation indicates hierarchy):
-
-```text
-Cog-Rail/
-|-- Cog-MRSI/
-|   |-- train/
-|   |   |-- 01/
-|   |   |   |-- image/
-|   |   |   `-- label/
-|   |   |-- 02/
-|   |   |   |-- image/
-|   |   |   `-- label/
-|   |   |-- 03/
-|   |   |   |-- image/
-|   |   |   `-- label/
-|   |   `-- ...
-|   `-- test/
-|       |-- 01/
-|       |   |-- image/
-|       |   `-- label/
-|       |-- 02/
-|       |   |-- image/
-|       |   `-- label/
-|       `-- ...
-`-- Cog-RailSem19/
-    |-- train/
-    |   |-- image/
-    |   `-- label/
-    `-- test/
-        |-- image/
-        `-- label/
-```
-
----
+Our projects can be accessed at: https://huggingface.co/datasets/BITZhangqy/Cog-Rail/
 
 ## RAILGPT Multi-Task Learning Architecture
 ![Framework](assets/fig3_framework.png)
@@ -90,3 +57,19 @@ Cog-Rail/
 
 ### Performance (F1) Comparison on Type-II Visual Prompt in Cog-RailSem19 dataset via Individual Fine-tuning
 ![Type-II RailSem19](assets/fig8_f1_type2_railsim19.png)
+
+
+## Citation
+If you find our work helpful in your research, please consider citing:
+
+```bibtex
+@misc{tian2026cograilbenchmarkingvlmscognitive,
+      title={CogRail: Benchmarking VLMs in Cognitive Intrusion Perception for Intelligent Railway Transportation Systems}, 
+      author={Yonglin Tian and Qiyao Zhang and Wei Xu and Yutong Wang and Yihao Wu and Xinyi Li and Xingyuan Dai and Hui Zhang and Zhiyong Cui and Baoqing Guo and Zujun Yu and Yisheng Lv},
+      year={2026},
+      eprint={2601.09613},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2601.09613}, 
+}
+
