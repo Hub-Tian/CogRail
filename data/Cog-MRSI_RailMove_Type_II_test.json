@@ -1,0 +1,1842 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does truck.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1628.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1628.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does truck.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1630.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1630.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. stable."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1683.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does person.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. stable."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1686.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. stable."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1689.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. stable."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1692.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of car.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1781.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does car.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1782.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1774.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1815.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1817.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1819.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1821.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1824.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of car.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1777.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does car.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1778.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1827.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1835.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to car.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1835.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1835.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of car.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1835.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to car.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1839.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does person.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1839.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of car.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1850.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1850.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does person.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1850.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does truck.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1947.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does truck.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1948.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1953.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does truck.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1954.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1955.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1958.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1960.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1961.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does truck.2 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1961.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1963.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to truck.2?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1963.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does truck.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1973.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does truck.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1978.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does truck.2 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/1978.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does truck.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/2180.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of car.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/2180.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does truck.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/2187.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of car.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/2187.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does truck.2 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/2187.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does truck.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/2192.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to car.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3305.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to car.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3307.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does person.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/2377.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/2475.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/2501.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does person.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/2631.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/2695.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does truck.2 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/2695.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/2700.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/2703.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of truck.2?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/2703.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/2748.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does truck.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3131.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3135.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does person.2 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3140.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3140.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3140.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3173.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3176.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of car.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. stable."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3176.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3181.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does truck.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3188.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does truck.2 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3188.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3194.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to car.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/32.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to car.2?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/32.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. stable."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/32.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3409.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.2?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3409.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does car.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3409.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3419.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.2?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3419.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does car.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. stable."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3419.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does person.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3465.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3468.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3366.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. stable."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3389.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. stable."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3390.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does person.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3393.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3403.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.2?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. stable."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3403.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.3?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. stable."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3403.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of person.4?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3403.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3404.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does person.2 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. stable."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3404.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.3?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. stable."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3404.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.4?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. stable."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3404.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of person.5?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. stable."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3404.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does person.6 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. stable."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3404.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does person.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3452.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.2?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3452.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does person.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3455.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3455.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does truck.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3455.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3455.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3456.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3456.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3457.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3479.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3486.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3488.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does person.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3503.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does person.2 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. stable."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3503.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does person.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3506.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of car.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. stable."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3506.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Of the three movement states, which one applies to truck.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3510.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does truck.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/home/tsinghua/TianYL/ZhangQY/railway_track_image_and_label/new_label_offline4/3512.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  }
+]
