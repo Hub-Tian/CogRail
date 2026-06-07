@@ -1,0 +1,290 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Describe the spatial position of person.2 relative to the tracks.\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **IMPORTANT!!! Please give specific reasons why you choose this answer like 'This car is moving on the railway track, so it should be classified as serious threat.'"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. On the railway track."
+      }
+    ],
+    "images": [
+      "/data/Projects/ZhangQY/Harmonization/output_data_inr/test/Type_I/image_395.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the position of the objects in the pictures. There are three options:\n              A. Outside the railway operation zone:\n              That is, the target is outside the track and ballast.\n              B. On the ballast:\n              The target is on the ballast.\n              C. On the track:\n              The target is on the track.\n              \n              Please note that as long as any part of the target is on the track, it is classified as on the track; if any part of the target is on the ballast and not on the track, it is classified as on the ballast; and the target is all outside the railway operation zone before being classified as outside the railway operation zone.\n                    **Give specific answers and reasons according to the question, in the format of:\n                                Answer: choose from A, B and C\n                                **\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the threat level of car.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **IMPORTANT!!! Please give specific reasons why you choose this answer like 'This car is moving on the railway track, so it should be classified as serious threat.'"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. serious threat."
+      }
+    ],
+    "images": [
+      "/data/Projects/ZhangQY/Harmonization/output_data_inr/test/Type_I/image_218.png"
+    ],
+    "system": "[\n You are an experienced track inspector familiar with various situations that may pose threats to track safety. \n                    Please evaluate the threat level of people or objects based on the provided pictures and annotations. \n                    There are three levels: A. Safe, \n                        \"Safe\" means that people or objects will not affect safety currently or in the future.\n                    B. Potential Threat,  \n                        \"Potential Threat\" means that people or objects may affect driving safety.\n                    C. Serious Threat.   \n                        \"Serious Threat\" means that people or objects have already affected driving safety.\n]"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the current threat level of sheep.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **IMPORTANT!!! Please give specific reasons why you choose this answer like 'This car is moving on the railway track, so it should be classified as serious threat.'"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. potential threat."
+      }
+    ],
+    "images": [
+      "/data/Projects/ZhangQY/Harmonization/output_data_inr/test/Type_I/image_315.png"
+    ],
+    "system": "[\n You are an experienced track inspector familiar with various situations that may pose threats to track safety. \n                    Please evaluate the threat level of people or objects based on the provided pictures and annotations. \n                    There are three levels: A. Safe, \n                        \"Safe\" means that people or objects will not affect safety currently or in the future.\n                    B. Potential Threat,  \n                        \"Potential Threat\" means that people or objects may affect driving safety.\n                    C. Serious Threat.   \n                        \"Serious Threat\" means that people or objects have already affected driving safety.\n]"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the threat level of person.2?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **IMPORTANT!!! Please give specific reasons why you choose this answer like 'This car is moving on the railway track, so it should be classified as serious threat.'"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. serious threat."
+      }
+    ],
+    "images": [
+      "/data/Projects/ZhangQY/Harmonization/output_data_inr/test/Type_I/image_395.png"
+    ],
+    "system": "[\n You are an experienced track inspector familiar with various situations that may pose threats to track safety. \n                    Please evaluate the threat level of people or objects based on the provided pictures and annotations. \n                    There are three levels: A. Safe, \n                        \"Safe\" means that people or objects will not affect safety currently or in the future.\n                    B. Potential Threat,  \n                        \"Potential Threat\" means that people or objects may affect driving safety.\n                    C. Serious Threat.   \n                        \"Serious Threat\" means that people or objects have already affected driving safety.\n]"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the position of cow.1 relative to the operating area in the image?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **IMPORTANT!!! Please give specific reasons why you choose this answer like 'This car is moving on the railway track, so it should be classified as serious threat.'"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. Outside the railway operation zone."
+      }
+    ],
+    "images": [
+      "/data/Projects/ZhangQY/Harmonization/output_data_inr/test/Type_I/image_315.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the position of the objects in the pictures. There are three options:\n              A. Outside the railway operation zone:\n              That is, the target is outside the track and ballast.\n              B. On the ballast:\n              The target is on the ballast.\n              C. On the track:\n              The target is on the track.\n              \n              Please note that as long as any part of the target is on the track, it is classified as on the track; if any part of the target is on the ballast and not on the track, it is classified as on the ballast; and the target is all outside the railway operation zone before being classified as outside the railway operation zone.\n                    **Give specific answers and reasons according to the question, in the format of:\n                                Answer: choose from A, B and C\n                                **\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the threat level of person.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **IMPORTANT!!! Please give specific reasons why you choose this answer like 'This car is moving on the railway track, so it should be classified as serious threat.'"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. serious threat."
+      }
+    ],
+    "images": [
+      "/data/Projects/ZhangQY/Harmonization/output_data_inr/test/Type_I/image_315.png"
+    ],
+    "system": "[\n You are an experienced track inspector familiar with various situations that may pose threats to track safety. \n                    Please evaluate the threat level of people or objects based on the provided pictures and annotations. \n                    There are three levels: A. Safe, \n                        \"Safe\" means that people or objects will not affect safety currently or in the future.\n                    B. Potential Threat,  \n                        \"Potential Threat\" means that people or objects may affect driving safety.\n                    C. Serious Threat.   \n                        \"Serious Threat\" means that people or objects have already affected driving safety.\n]"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Describe the spatial position of cow.1 relative to the tracks.\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **IMPORTANT!!! Please give specific reasons why you choose this answer like 'This car is moving on the railway track, so it should be classified as serious threat.'"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. Outside the railway operation zone."
+      }
+    ],
+    "images": [
+      "/data/Projects/ZhangQY/Harmonization/output_data_inr/test/Type_I/image_395.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the position of the objects in the pictures. There are three options:\n              A. Outside the railway operation zone:\n              That is, the target is outside the track and ballast.\n              B. On the ballast:\n              The target is on the ballast.\n              C. On the track:\n              The target is on the track.\n              \n              Please note that as long as any part of the target is on the track, it is classified as on the track; if any part of the target is on the ballast and not on the track, it is classified as on the ballast; and the target is all outside the railway operation zone before being classified as outside the railway operation zone.\n                    **Give specific answers and reasons according to the question, in the format of:\n                                Answer: choose from A, B and C\n                                **\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of cow.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **IMPORTANT!!! Please give specific reasons why you choose this answer like 'This car is moving on the railway track, so it should be classified as serious threat.'"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. non-threatening movement."
+      }
+    ],
+    "images": [
+      "/data/Projects/ZhangQY/Harmonization/output_data_inr/test/Type_I/image_315.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the movement state of sheep.1?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **IMPORTANT!!! Please give specific reasons why you choose this answer like 'This car is moving on the railway track, so it should be classified as serious threat.'"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/data/Projects/ZhangQY/Harmonization/output_data_inr/test/Type_I/image_315.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the position of car.2 relative to the railway tracks?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **IMPORTANT!!! Please give specific reasons why you choose this answer like 'This car is moving on the railway track, so it should be classified as serious threat.'"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. On the railway track."
+      }
+    ],
+    "images": [
+      "/data/Projects/ZhangQY/Harmonization/output_data_inr/test/Type_I/image_218.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the position of the objects in the pictures. There are three options:\n              A. Outside the railway operation zone:\n              That is, the target is outside the track and ballast.\n              B. On the ballast:\n              The target is on the ballast.\n              C. On the track:\n              The target is on the track.\n              \n              Please note that as long as any part of the target is on the track, it is classified as on the track; if any part of the target is on the ballast and not on the track, it is classified as on the ballast; and the target is all outside the railway operation zone before being classified as outside the railway operation zone.\n                    **Give specific answers and reasons according to the question, in the format of:\n                                Answer: choose from A, B and C\n                                **\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Does person.1 pose no impact, a potential impact, or a severe impact on train safety?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **IMPORTANT!!! Please give specific reasons why you choose this answer like 'This car is moving on the railway track, so it should be classified as serious threat.'"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. serious threat."
+      }
+    ],
+    "images": [
+      "/data/Projects/ZhangQY/Harmonization/output_data_inr/test/Type_I/image_395.png"
+    ],
+    "system": "[\n You are an experienced track inspector familiar with various situations that may pose threats to track safety. \n                    Please evaluate the threat level of people or objects based on the provided pictures and annotations. \n                    There are three levels: A. Safe, \n                        \"Safe\" means that people or objects will not affect safety currently or in the future.\n                    B. Potential Threat,  \n                        \"Potential Threat\" means that people or objects may affect driving safety.\n                    C. Serious Threat.   \n                        \"Serious Threat\" means that people or objects have already affected driving safety.\n]"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which type of movement state does car.1 fall under?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **IMPORTANT!!! Please give specific reasons why you choose this answer like 'This car is moving on the railway track, so it should be classified as serious threat.'"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. potentially threatening movement."
+      }
+    ],
+    "images": [
+      "/data/Projects/ZhangQY/Harmonization/output_data_inr/test/Type_I/image_218.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the motion threat of the objects in the pictures. There are three options:\n A. Stable:\n The target does not have the ability to move or is currently in a standing, lying down, etc. situation.\n B. Non-threatening movement:\n The current and future movements of the target will not intersect with the track.\n C. Threatening movement:\n The current or future movement of the target will intersect with the track.\n **Give specific answers and reasons according to the question, in the format of:\n Answer: choose from A, B and C\n **\n\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Does cow.1 pose no impact, a potential impact, or a severe impact on train safety?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **IMPORTANT!!! Please give specific reasons why you choose this answer like 'This car is moving on the railway track, so it should be classified as serious threat.'"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. potential threat."
+      }
+    ],
+    "images": [
+      "/data/Projects/ZhangQY/Harmonization/output_data_inr/test/Type_I/image_315.png"
+    ],
+    "system": "[\n You are an experienced track inspector familiar with various situations that may pose threats to track safety. \n                    Please evaluate the threat level of people or objects based on the provided pictures and annotations. \n                    There are three levels: A. Safe, \n                        \"Safe\" means that people or objects will not affect safety currently or in the future.\n                    B. Potential Threat,  \n                        \"Potential Threat\" means that people or objects may affect driving safety.\n                    C. Serious Threat.   \n                        \"Serious Threat\" means that people or objects have already affected driving safety.\n]"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the position of person.1 relative to the operating area in the image?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **IMPORTANT!!! Please give specific reasons why you choose this answer like 'This car is moving on the railway track, so it should be classified as serious threat.'"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. On the ballast."
+      }
+    ],
+    "images": [
+      "/data/Projects/ZhangQY/Harmonization/output_data_inr/test/Type_I/image_315.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the position of the objects in the pictures. There are three options:\n              A. Outside the railway operation zone:\n              That is, the target is outside the track and ballast.\n              B. On the ballast:\n              The target is on the ballast.\n              C. On the track:\n              The target is on the track.\n              \n              Please note that as long as any part of the target is on the track, it is classified as on the track; if any part of the target is on the ballast and not on the track, it is classified as on the ballast; and the target is all outside the railway operation zone before being classified as outside the railway operation zone.\n                    **Give specific answers and reasons according to the question, in the format of:\n                                Answer: choose from A, B and C\n                                **\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Does car.2 pose no impact, a potential impact, or a severe impact on train safety?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **IMPORTANT!!! Please give specific reasons why you choose this answer like 'This car is moving on the railway track, so it should be classified as serious threat.'"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: C. serious threat."
+      }
+    ],
+    "images": [
+      "/data/Projects/ZhangQY/Harmonization/output_data_inr/test/Type_I/image_218.png"
+    ],
+    "system": "[\n You are an experienced track inspector familiar with various situations that may pose threats to track safety. \n                    Please evaluate the threat level of people or objects based on the provided pictures and annotations. \n                    There are three levels: A. Safe, \n                        \"Safe\" means that people or objects will not affect safety currently or in the future.\n                    B. Potential Threat,  \n                        \"Potential Threat\" means that people or objects may affect driving safety.\n                    C. Serious Threat.   \n                        \"Serious Threat\" means that people or objects have already affected driving safety.\n]"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the position of sheep.1 relative to the operating area in the image?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **IMPORTANT!!! Please give specific reasons why you choose this answer like 'This car is moving on the railway track, so it should be classified as serious threat.'"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. Outside the railway operation zone."
+      }
+    ],
+    "images": [
+      "/data/Projects/ZhangQY/Harmonization/output_data_inr/test/Type_I/image_315.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the position of the objects in the pictures. There are three options:\n              A. Outside the railway operation zone:\n              That is, the target is outside the track and ballast.\n              B. On the ballast:\n              The target is on the ballast.\n              C. On the track:\n              The target is on the track.\n              \n              Please note that as long as any part of the target is on the track, it is classified as on the track; if any part of the target is on the ballast and not on the track, it is classified as on the ballast; and the target is all outside the railway operation zone before being classified as outside the railway operation zone.\n                    **Give specific answers and reasons according to the question, in the format of:\n                                Answer: choose from A, B and C\n                                **\n                              "
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Does cow.1 pose no impact, a potential impact, or a severe impact on train safety?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **IMPORTANT!!! Please give specific reasons why you choose this answer like 'This car is moving on the railway track, so it should be classified as serious threat.'"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: A. safe."
+      }
+    ],
+    "images": [
+      "/data/Projects/ZhangQY/Harmonization/output_data_inr/test/Type_I/image_395.png"
+    ],
+    "system": "[\n You are an experienced track inspector familiar with various situations that may pose threats to track safety. \n                    Please evaluate the threat level of people or objects based on the provided pictures and annotations. \n                    There are three levels: A. Safe, \n                        \"Safe\" means that people or objects will not affect safety currently or in the future.\n                    B. Potential Threat,  \n                        \"Potential Threat\" means that people or objects may affect driving safety.\n                    C. Serious Threat.   \n                        \"Serious Threat\" means that people or objects have already affected driving safety.\n]"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the position of person.1 relative to the operating area in the image?\n\n**Give specific answers and reasons according to the question, in the format of:\n            Answer: choose from A, B and C\n            **IMPORTANT!!! Please give specific reasons why you choose this answer like 'This car is moving on the railway track, so it should be classified as serious threat.'"
+      },
+      {
+        "from": "gpt",
+        "value": "Answer: B. On the ballast."
+      }
+    ],
+    "images": [
+      "/data/Projects/ZhangQY/Harmonization/output_data_inr/test/Type_I/image_315.png"
+    ],
+    "system": "\n             You are a railway traffic safety officer and have a good understanding of various situations that may threaten the safety of trains. Based on the pictures and the annotations in the pictures, evaluate the position of the objects in the pictures. There are three options:\n              A. Outside the railway operation zone:\n              That is, the target is outside the track and ballast.\n              B. On the ballast:\n              The target is on the ballast.\n              C. On the track:\n              The target is on the track.\n              \n              Please note that as long as any part of the target is on the track, it is classified as on the track; if any part of the target is on the ballast and not on the track, it is classified as on the ballast; and the target is all outside the railway operation zone before being classified as outside the railway operation zone.\n                    **Give specific answers and reasons according to the question, in the format of:\n                                Answer: choose from A, B and C\n                                **\n                              "
+  }
+]
