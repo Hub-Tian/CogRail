@@ -41,39 +41,7 @@ Our projects can be accessed at: https://huggingface.co/datasets/BITZhangqy/Cog-
 ## RAILGPT Multi-Task Learning Architecture
 ![Framework](assets/fig3_framework.png)
 
----
 
-## 📈 Experimental Results
-
-### Performance Comparison among SOTA VLMs on CogRail averaged on different Prompt types and sub-datasets
-![Performance](assets/fig4_multimodal_avg_radar.png)
-
-### Performance(F1) Comparison on Type-I Visual Prompt in Cog-MRSI dataset via Individual Fine-tuning
-![Type-I MRSI](assets/fig5_f1_type1_mrsi.png)
-
-### Performance(F1) Comparison on Type-II Visual Prompt in Cog-MRSI dataset via Individual Fine-tuning
-![Type-II MRSI](assets/fig6_f1_type2_mrsi.png)
-
-### Performance(F1) Comparison on Type-I Visual Prompt in Cog-RailSem19 dataset via Individual Fine-tuning
-![Type-I RailSem19](assets/fig7_f1_type1_railsem19.png)
-
-### Performance (F1) Comparison on Type-II Visual Prompt in Cog-RailSem19 dataset via Individual Fine-tuning
-![Type-II RailSem19](assets/fig8_f1_type2_railsim19.png)
-
-
-## Citation
-If you find our work helpful in your research, please consider citing:
-
-```bibtex
-@misc{tian2026cograilbenchmarkingvlmscognitive,
-      title={CogRail: Benchmarking VLMs in Cognitive Intrusion Perception for Intelligent Railway Transportation Systems}, 
-      author={Yonglin Tian and Qiyao Zhang and Wei Xu and Yutong Wang and Yihao Wu and Xinyi Li and Xingyuan Dai and Hui Zhang and Zhiyong Cui and Baoqing Guo and Zujun Yu and Yisheng Lv},
-      year={2026},
-      eprint={2601.09613},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2601.09613}, 
-}
 ## Our data is can be accessed at: https://huggingface.co/datasets/BITZhangqy/Cog-Rail/
 ## Scripts Description
 
@@ -270,3 +238,16 @@ bf16: true
 - **Path errors**: Verify image paths are accessible from the training/inference environment
 - **OOM errors**: Reduce `cutoff_len` or `max_samples` to fit GPU memory
 
+## Citation
+If you find our work helpful in your research, please consider citing:
+
+```bibtex
+@misc{tian2026cograilbenchmarkingvlmscognitive,
+      title={CogRail: Benchmarking VLMs in Cognitive Intrusion Perception for Intelligent Railway Transportation Systems}, 
+      author={Yonglin Tian and Qiyao Zhang and Wei Xu and Yutong Wang and Yihao Wu and Xinyi Li and Xingyuan Dai and Hui Zhang and Zhiyong Cui and Baoqing Guo and Zujun Yu and Yisheng Lv},
+      year={2026},
+      eprint={2601.09613},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2601.09613}, 
+}
